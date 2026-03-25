@@ -347,7 +347,7 @@
     "romaji": "Ashita wa ashita no kaze ga fuku",
     "english": "Tomorrow's wind will blow tomorrow",
     "meaning": "Don't worry too much about the future",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -356,7 +356,7 @@
     "romaji": "En no shita no chikaramochi",
     "english": "A strong person under the veranda",
     "meaning": "An unsung hero who supports behind the scenes",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -365,7 +365,7 @@
     "romaji": "Yudan taiteki",
     "english": "Carelessness is the greatest enemy",
     "meaning": "Don't let your guard down",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -374,7 +374,7 @@
     "romaji": "Kega no koumyou",
     "english": "Fame from a mistake",
     "meaning": "A lucky break that comes from an error",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -383,7 +383,7 @@
     "romaji": "Amadare ishi wo ugatsu",
     "english": "Dripping water pierces stone",
     "meaning": "Persistence can overcome great obstacles",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -392,7 +392,7 @@
     "romaji": "Nanakorobi yaoki",
     "english": "Fall seven times, get up eight",
     "meaning": "Never give up",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -401,7 +401,7 @@
     "romaji": "Ishibashi wo tataite wataru",
     "english": "Tap a stone bridge before crossing",
     "meaning": "Be very cautious",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -411,7 +411,7 @@
     "english": "Even if you fall, don't get up empty-handed",
     "meaning": "Learn something from every setback",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 47,
